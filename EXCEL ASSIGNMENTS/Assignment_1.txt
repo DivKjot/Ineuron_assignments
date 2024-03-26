@@ -1,0 +1,19 @@
+Advance Excel Assignment 1
+
+Q1. What do you mean by cells in an excel sheet?
+solution: Cells in an Excel sheet are the individual rectangular boxes where data can be entered, stored, and manipulated. They are identified by their unique column and row labels.
+
+Q2. How can you restrict someone from copying a cell from your worksheet?
+solution: You can restrict copying cells from your worksheet by protecting the worksheet and setting permissions to disallow copying.
+
+Q3. How to move or copy the worksheet into another workbook?
+solution: To move or copy a worksheet into another workbook, right-click on the worksheet tab, select "Move or Copy," choose the destination workbook, and select whether to move or copy the worksheet.
+
+Q4. Which key is used as a shortcut for opening a new window document?
+solution: The shortcut key for opening a new window document in Excel is Ctrl + N.
+
+Q5. What are the things that we can notice after opening the Excel interface?
+solution: After opening the Excel interface,we can notice the ribbon with tabs such as Home, Insert, Page Layout, etc., a formula bar for entering and editing formulas, and the grid of cells where data can be entered.
+
+Q6. When to use a relative cell reference in excel?
+solution: Relative cell references in Excel are used when you want a formula to adjust automatically when copied to different cells. They change relative to the position of the cell containing the formula.
