@@ -1,0 +1,27 @@
+Advance Excel Assignment 2
+
+Q1. What does the dollar($) sign do?
+Ans. The dollar sign ($) in Excel is used to create absolute references in cell references, which means the row or column reference remains fixed when copied to other cells.
+
+Q2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans. To change the reference from relative to absolute (or mixed) in Excel, add or remove dollar signs ($) from the cell reference as needed.
+
+Q3. Explain the order of operations in excel?
+Ans. The order of operations in Excel follows the acronym PEMDAS: Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
+Q4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two?
+Ans. Top 5 functions in Excel: SUM, VLOOKUP, IF, INDEX, MATCH.
+   Basic syntax:
+   - SUM: =SUM(number1, [number2], ...)
+   - VLOOKUP: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+Q5. When would you use the subtotal function?
+Ans. The SUBTOTAL function in Excel is used to calculate subtotal for a range of data, and it's commonly used with filtered or grouped data to calculate subtotals for visible rows only.
+
+Q6. What is the syntax of the vlookup function? Explain the terms in it?
+Ans. Syntax of VLOOKUP function:
+   =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+   - lookup_value: The value to search for.
+   - table_array: The range of cells that contains the data.
+   - col_index_num: The column number in the table_array from which to retrieve the value.
+   - range_lookup: A logical value that specifies whether to find an exact match or an approximate match.
